@@ -6,9 +6,24 @@
 
 .btn-facebook {
 	background-color: #4868ac;
-	border-color: #314776;
+	border-color: rgb(49,71,118);
+	font-size: 15px;
 }
 
+.btn-success {
+	padding: 7px;
+	font-weight: normal;
+	border-color: rgb(92,184,92);
+}
+
+.form-inline {
+	text-align: center;
+	vertical-align: middle;
+	width: 100%;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 47px;
+	padding-right: 47px;
 
 .jumbotron {
 	min-height: 600px;
